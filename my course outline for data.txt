@@ -1,0 +1,19 @@
+--------my course outline for data science--------------------- >>>>>>>>>>
+
+---------------------------python programming language ---- 1 start >>>>>>>>>>>
+data analysis pandas NumPy>>>>>>>>>
+stats>>>>.
+descriptive, inferential and 
+ probability
+machine learning {
+
+supervised 
+unsupervised
+}
+
+neural Netwroks:ANN,CNN,RNN,
+
+generative ai 
+smart bots 
+Gpt's model :Transformer ,fine tune 
+Deployment AI model on AWS ,AZURE 
